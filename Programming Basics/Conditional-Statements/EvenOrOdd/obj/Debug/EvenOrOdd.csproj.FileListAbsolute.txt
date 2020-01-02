@@ -1,0 +1,7 @@
+D:\Projects\Conditional-Statements\EvenOrOdd\bin\Debug\EvenOrOdd.exe.config
+D:\Projects\Conditional-Statements\EvenOrOdd\bin\Debug\EvenOrOdd.exe
+D:\Projects\Conditional-Statements\EvenOrOdd\bin\Debug\EvenOrOdd.pdb
+D:\Projects\Conditional-Statements\EvenOrOdd\obj\Debug\EvenOrOdd.csprojAssemblyReference.cache
+D:\Projects\Conditional-Statements\EvenOrOdd\obj\Debug\EvenOrOdd.csproj.CoreCompileInputs.cache
+D:\Projects\Conditional-Statements\EvenOrOdd\obj\Debug\EvenOrOdd.exe
+D:\Projects\Conditional-Statements\EvenOrOdd\obj\Debug\EvenOrOdd.pdb

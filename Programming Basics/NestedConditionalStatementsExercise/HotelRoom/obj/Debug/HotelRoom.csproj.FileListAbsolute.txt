@@ -1,0 +1,7 @@
+D:\Projects\NestedConditionalStatementsExercise\HotelRoom\bin\Debug\HotelRoom.exe.config
+D:\Projects\NestedConditionalStatementsExercise\HotelRoom\bin\Debug\HotelRoom.exe
+D:\Projects\NestedConditionalStatementsExercise\HotelRoom\bin\Debug\HotelRoom.pdb
+D:\Projects\NestedConditionalStatementsExercise\HotelRoom\obj\Debug\HotelRoom.csprojAssemblyReference.cache
+D:\Projects\NestedConditionalStatementsExercise\HotelRoom\obj\Debug\HotelRoom.csproj.CoreCompileInputs.cache
+D:\Projects\NestedConditionalStatementsExercise\HotelRoom\obj\Debug\HotelRoom.exe
+D:\Projects\NestedConditionalStatementsExercise\HotelRoom\obj\Debug\HotelRoom.pdb

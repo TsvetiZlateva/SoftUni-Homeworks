@@ -1,0 +1,7 @@
+D:\Projects\NestedConditionalStatementsExercise\FishingBoat\bin\Debug\FishingBoat.exe.config
+D:\Projects\NestedConditionalStatementsExercise\FishingBoat\bin\Debug\FishingBoat.exe
+D:\Projects\NestedConditionalStatementsExercise\FishingBoat\bin\Debug\FishingBoat.pdb
+D:\Projects\NestedConditionalStatementsExercise\FishingBoat\obj\Debug\FishingBoat.csprojAssemblyReference.cache
+D:\Projects\NestedConditionalStatementsExercise\FishingBoat\obj\Debug\FishingBoat.csproj.CoreCompileInputs.cache
+D:\Projects\NestedConditionalStatementsExercise\FishingBoat\obj\Debug\FishingBoat.exe
+D:\Projects\NestedConditionalStatementsExercise\FishingBoat\obj\Debug\FishingBoat.pdb

@@ -1,0 +1,6 @@
+C:\Users\Cveti\source\repos\Simple-Operations-And-Calculations\USD-to-BGN\bin\Debug\USD-to-BGN.exe.config
+C:\Users\Cveti\source\repos\Simple-Operations-And-Calculations\USD-to-BGN\bin\Debug\USD-to-BGN.exe
+C:\Users\Cveti\source\repos\Simple-Operations-And-Calculations\USD-to-BGN\bin\Debug\USD-to-BGN.pdb
+C:\Users\Cveti\source\repos\Simple-Operations-And-Calculations\USD-to-BGN\obj\Debug\USD-to-BGN.csproj.CoreCompileInputs.cache
+C:\Users\Cveti\source\repos\Simple-Operations-And-Calculations\USD-to-BGN\obj\Debug\USD-to-BGN.exe
+C:\Users\Cveti\source\repos\Simple-Operations-And-Calculations\USD-to-BGN\obj\Debug\USD-to-BGN.pdb

@@ -1,0 +1,7 @@
+D:\Projects\ConditionalStatementsExercises\Time15Minutes\bin\Debug\Time15Minutes.exe.config
+D:\Projects\ConditionalStatementsExercises\Time15Minutes\bin\Debug\Time15Minutes.exe
+D:\Projects\ConditionalStatementsExercises\Time15Minutes\bin\Debug\Time15Minutes.pdb
+D:\Projects\ConditionalStatementsExercises\Time15Minutes\obj\Debug\Time15Minutes.csprojAssemblyReference.cache
+D:\Projects\ConditionalStatementsExercises\Time15Minutes\obj\Debug\Time15Minutes.csproj.CoreCompileInputs.cache
+D:\Projects\ConditionalStatementsExercises\Time15Minutes\obj\Debug\Time15Minutes.exe
+D:\Projects\ConditionalStatementsExercises\Time15Minutes\obj\Debug\Time15Minutes.pdb

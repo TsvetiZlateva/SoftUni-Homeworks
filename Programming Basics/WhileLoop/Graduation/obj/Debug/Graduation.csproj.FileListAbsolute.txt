@@ -1,0 +1,6 @@
+D:\Projects\WhileLoop\Graduation\bin\Debug\Graduation.exe.config
+D:\Projects\WhileLoop\Graduation\bin\Debug\Graduation.exe
+D:\Projects\WhileLoop\Graduation\bin\Debug\Graduation.pdb
+D:\Projects\WhileLoop\Graduation\obj\Debug\Graduation.csproj.CoreCompileInputs.cache
+D:\Projects\WhileLoop\Graduation\obj\Debug\Graduation.exe
+D:\Projects\WhileLoop\Graduation\obj\Debug\Graduation.pdb

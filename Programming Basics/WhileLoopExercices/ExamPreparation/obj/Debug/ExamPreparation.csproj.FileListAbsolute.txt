@@ -1,0 +1,7 @@
+D:\Projects\WhileLoopExercices\ExamPreparation\bin\Debug\ExamPreparation.exe.config
+D:\Projects\WhileLoopExercices\ExamPreparation\bin\Debug\ExamPreparation.exe
+D:\Projects\WhileLoopExercices\ExamPreparation\bin\Debug\ExamPreparation.pdb
+D:\Projects\WhileLoopExercices\ExamPreparation\obj\Debug\ExamPreparation.csprojAssemblyReference.cache
+D:\Projects\WhileLoopExercices\ExamPreparation\obj\Debug\ExamPreparation.csproj.CoreCompileInputs.cache
+D:\Projects\WhileLoopExercices\ExamPreparation\obj\Debug\ExamPreparation.exe
+D:\Projects\WhileLoopExercices\ExamPreparation\obj\Debug\ExamPreparation.pdb

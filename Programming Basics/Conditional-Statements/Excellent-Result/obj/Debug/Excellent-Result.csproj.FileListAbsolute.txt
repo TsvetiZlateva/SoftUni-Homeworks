@@ -1,0 +1,7 @@
+D:\Projects\Conditional-Statements\Excellent-Result\bin\Debug\Excellent-Result.exe.config
+D:\Projects\Conditional-Statements\Excellent-Result\bin\Debug\Excellent-Result.exe
+D:\Projects\Conditional-Statements\Excellent-Result\bin\Debug\Excellent-Result.pdb
+D:\Projects\Conditional-Statements\Excellent-Result\obj\Debug\Excellent-Result.csprojAssemblyReference.cache
+D:\Projects\Conditional-Statements\Excellent-Result\obj\Debug\Excellent-Result.csproj.CoreCompileInputs.cache
+D:\Projects\Conditional-Statements\Excellent-Result\obj\Debug\Excellent-Result.exe
+D:\Projects\Conditional-Statements\Excellent-Result\obj\Debug\Excellent-Result.pdb

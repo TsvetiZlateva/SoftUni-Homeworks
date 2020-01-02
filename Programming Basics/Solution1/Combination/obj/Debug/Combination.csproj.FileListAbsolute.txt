@@ -1,0 +1,6 @@
+D:\Projects\Solution1\Combination\bin\Debug\Combination.exe.config
+D:\Projects\Solution1\Combination\bin\Debug\Combination.exe
+D:\Projects\Solution1\Combination\bin\Debug\Combination.pdb
+D:\Projects\Solution1\Combination\obj\Debug\Combination.csproj.CoreCompileInputs.cache
+D:\Projects\Solution1\Combination\obj\Debug\Combination.exe
+D:\Projects\Solution1\Combination\obj\Debug\Combination.pdb

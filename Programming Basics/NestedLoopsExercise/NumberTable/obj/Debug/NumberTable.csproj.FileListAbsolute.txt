@@ -1,0 +1,6 @@
+D:\Projects\NestedLoopsExercise\NumberTable\bin\Debug\NumberTable.exe.config
+D:\Projects\NestedLoopsExercise\NumberTable\bin\Debug\NumberTable.exe
+D:\Projects\NestedLoopsExercise\NumberTable\bin\Debug\NumberTable.pdb
+D:\Projects\NestedLoopsExercise\NumberTable\obj\Debug\NumberTable.csproj.CoreCompileInputs.cache
+D:\Projects\NestedLoopsExercise\NumberTable\obj\Debug\NumberTable.exe
+D:\Projects\NestedLoopsExercise\NumberTable\obj\Debug\NumberTable.pdb

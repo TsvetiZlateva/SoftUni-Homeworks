@@ -1,0 +1,7 @@
+D:\Projects\ForLoopExercise\HalfSumElement\bin\Debug\HalfSumElement.exe.config
+D:\Projects\ForLoopExercise\HalfSumElement\bin\Debug\HalfSumElement.exe
+D:\Projects\ForLoopExercise\HalfSumElement\bin\Debug\HalfSumElement.pdb
+D:\Projects\ForLoopExercise\HalfSumElement\obj\Debug\HalfSumElement.csprojAssemblyReference.cache
+D:\Projects\ForLoopExercise\HalfSumElement\obj\Debug\HalfSumElement.csproj.CoreCompileInputs.cache
+D:\Projects\ForLoopExercise\HalfSumElement\obj\Debug\HalfSumElement.exe
+D:\Projects\ForLoopExercise\HalfSumElement\obj\Debug\HalfSumElement.pdb

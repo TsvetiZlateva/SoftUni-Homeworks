@@ -1,0 +1,7 @@
+D:\Projects\ForLoopExercise\Histogram\bin\Debug\Histogram.exe.config
+D:\Projects\ForLoopExercise\Histogram\bin\Debug\Histogram.exe
+D:\Projects\ForLoopExercise\Histogram\bin\Debug\Histogram.pdb
+D:\Projects\ForLoopExercise\Histogram\obj\Debug\Histogram.csprojAssemblyReference.cache
+D:\Projects\ForLoopExercise\Histogram\obj\Debug\Histogram.csproj.CoreCompileInputs.cache
+D:\Projects\ForLoopExercise\Histogram\obj\Debug\Histogram.exe
+D:\Projects\ForLoopExercise\Histogram\obj\Debug\Histogram.pdb

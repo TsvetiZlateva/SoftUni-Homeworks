@@ -1,0 +1,6 @@
+D:\Projects\Simple-Calculations\Trapezoid-Area\bin\Debug\Trapezoid-Area.exe.config
+D:\Projects\Simple-Calculations\Trapezoid-Area\bin\Debug\Trapezoid-Area.exe
+D:\Projects\Simple-Calculations\Trapezoid-Area\bin\Debug\Trapezoid-Area.pdb
+D:\Projects\Simple-Calculations\Trapezoid-Area\obj\Debug\Trapezoid-Area.csproj.CoreCompileInputs.cache
+D:\Projects\Simple-Calculations\Trapezoid-Area\obj\Debug\Trapezoid-Area.exe
+D:\Projects\Simple-Calculations\Trapezoid-Area\obj\Debug\Trapezoid-Area.pdb

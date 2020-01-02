@@ -1,0 +1,6 @@
+D:\Projects\Expression\Expression\bin\Debug\Expression.exe.config
+D:\Projects\Expression\Expression\bin\Debug\Expression.exe
+D:\Projects\Expression\Expression\bin\Debug\Expression.pdb
+D:\Projects\Expression\Expression\obj\Debug\Expression.csproj.CoreCompileInputs.cache
+D:\Projects\Expression\Expression\obj\Debug\Expression.exe
+D:\Projects\Expression\Expression\obj\Debug\Expression.pdb

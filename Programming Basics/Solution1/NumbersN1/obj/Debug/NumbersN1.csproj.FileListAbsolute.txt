@@ -1,0 +1,7 @@
+D:\Projects\Solution1\NumbersN1\bin\Debug\NumbersN1.exe.config
+D:\Projects\Solution1\NumbersN1\bin\Debug\NumbersN1.exe
+D:\Projects\Solution1\NumbersN1\bin\Debug\NumbersN1.pdb
+D:\Projects\Solution1\NumbersN1\obj\Debug\NumbersN1.csprojAssemblyReference.cache
+D:\Projects\Solution1\NumbersN1\obj\Debug\NumbersN1.csproj.CoreCompileInputs.cache
+D:\Projects\Solution1\NumbersN1\obj\Debug\NumbersN1.exe
+D:\Projects\Solution1\NumbersN1\obj\Debug\NumbersN1.pdb

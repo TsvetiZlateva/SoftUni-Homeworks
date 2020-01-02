@@ -1,0 +1,7 @@
+D:\Projects\NestedConditionalStatementsExercise\NewHouse\bin\Debug\NewHouse.exe.config
+D:\Projects\NestedConditionalStatementsExercise\NewHouse\bin\Debug\NewHouse.exe
+D:\Projects\NestedConditionalStatementsExercise\NewHouse\bin\Debug\NewHouse.pdb
+D:\Projects\NestedConditionalStatementsExercise\NewHouse\obj\Debug\NewHouse.csprojAssemblyReference.cache
+D:\Projects\NestedConditionalStatementsExercise\NewHouse\obj\Debug\NewHouse.csproj.CoreCompileInputs.cache
+D:\Projects\NestedConditionalStatementsExercise\NewHouse\obj\Debug\NewHouse.exe
+D:\Projects\NestedConditionalStatementsExercise\NewHouse\obj\Debug\NewHouse.pdb

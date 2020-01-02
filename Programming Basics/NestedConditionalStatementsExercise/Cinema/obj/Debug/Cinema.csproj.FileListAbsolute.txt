@@ -1,0 +1,7 @@
+D:\Projects\NestedConditionalStatementsExercise\Cinema\bin\Debug\Cinema.exe.config
+D:\Projects\NestedConditionalStatementsExercise\Cinema\bin\Debug\Cinema.exe
+D:\Projects\NestedConditionalStatementsExercise\Cinema\bin\Debug\Cinema.pdb
+D:\Projects\NestedConditionalStatementsExercise\Cinema\obj\Debug\Cinema.csprojAssemblyReference.cache
+D:\Projects\NestedConditionalStatementsExercise\Cinema\obj\Debug\Cinema.csproj.CoreCompileInputs.cache
+D:\Projects\NestedConditionalStatementsExercise\Cinema\obj\Debug\Cinema.exe
+D:\Projects\NestedConditionalStatementsExercise\Cinema\obj\Debug\Cinema.pdb

@@ -1,0 +1,7 @@
+D:\Projects\HelloSoftuni\HelloSoftuni\obj\Debug\HelloSoftuni.csprojResolveAssemblyReference.cache
+D:\Projects\HelloSoftuni\HelloSoftuni\obj\Debug\HelloSoftuni.csproj.CoreCompileInputs.cache
+D:\Projects\HelloSoftuni\HelloSoftuni\bin\Debug\HelloSoftuni.exe.config
+D:\Projects\HelloSoftuni\HelloSoftuni\bin\Debug\HelloSoftuni.exe
+D:\Projects\HelloSoftuni\HelloSoftuni\bin\Debug\HelloSoftuni.pdb
+D:\Projects\HelloSoftuni\HelloSoftuni\obj\Debug\HelloSoftuni.exe
+D:\Projects\HelloSoftuni\HelloSoftuni\obj\Debug\HelloSoftuni.pdb

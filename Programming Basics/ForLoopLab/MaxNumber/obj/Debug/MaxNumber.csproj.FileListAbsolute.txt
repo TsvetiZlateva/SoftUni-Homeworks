@@ -1,0 +1,6 @@
+D:\Projects\ForLoopLab\MaxNumber\bin\Debug\MaxNumber.exe.config
+D:\Projects\ForLoopLab\MaxNumber\bin\Debug\MaxNumber.exe
+D:\Projects\ForLoopLab\MaxNumber\bin\Debug\MaxNumber.pdb
+D:\Projects\ForLoopLab\MaxNumber\obj\Debug\MaxNumber.csproj.CoreCompileInputs.cache
+D:\Projects\ForLoopLab\MaxNumber\obj\Debug\MaxNumber.exe
+D:\Projects\ForLoopLab\MaxNumber\obj\Debug\MaxNumber.pdb

@@ -1,0 +1,6 @@
+D:\Projects\Nums1To20\Nums1To20\bin\Debug\Nums1To20.exe.config
+D:\Projects\Nums1To20\Nums1To20\bin\Debug\Nums1To20.exe
+D:\Projects\Nums1To20\Nums1To20\bin\Debug\Nums1To20.pdb
+D:\Projects\Nums1To20\Nums1To20\obj\Debug\Nums1To20.csproj.CoreCompileInputs.cache
+D:\Projects\Nums1To20\Nums1To20\obj\Debug\Nums1To20.exe
+D:\Projects\Nums1To20\Nums1To20\obj\Debug\Nums1To20.pdb

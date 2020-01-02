@@ -1,0 +1,7 @@
+D:\Projects\ForLoopLab\Numbers-1-To-100\bin\Debug\Numbers-1-To-100.exe.config
+D:\Projects\ForLoopLab\Numbers-1-To-100\bin\Debug\Numbers-1-To-100.exe
+D:\Projects\ForLoopLab\Numbers-1-To-100\bin\Debug\Numbers-1-To-100.pdb
+D:\Projects\ForLoopLab\Numbers-1-To-100\obj\Debug\Numbers-1-To-100.csprojAssemblyReference.cache
+D:\Projects\ForLoopLab\Numbers-1-To-100\obj\Debug\Numbers-1-To-100.csproj.CoreCompileInputs.cache
+D:\Projects\ForLoopLab\Numbers-1-To-100\obj\Debug\Numbers-1-To-100.exe
+D:\Projects\ForLoopLab\Numbers-1-To-100\obj\Debug\Numbers-1-To-100.pdb

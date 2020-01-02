@@ -1,0 +1,7 @@
+C:\Users\Cveti\source\repos\Simple-Operations-And-Calculations\Dance-Hall\bin\Debug\Dance-Hall.exe.config
+C:\Users\Cveti\source\repos\Simple-Operations-And-Calculations\Dance-Hall\bin\Debug\Dance-Hall.exe
+C:\Users\Cveti\source\repos\Simple-Operations-And-Calculations\Dance-Hall\bin\Debug\Dance-Hall.pdb
+C:\Users\Cveti\source\repos\Simple-Operations-And-Calculations\Dance-Hall\obj\Debug\Dance-Hall.csprojResolveAssemblyReference.cache
+C:\Users\Cveti\source\repos\Simple-Operations-And-Calculations\Dance-Hall\obj\Debug\Dance-Hall.csproj.CoreCompileInputs.cache
+C:\Users\Cveti\source\repos\Simple-Operations-And-Calculations\Dance-Hall\obj\Debug\Dance-Hall.exe
+C:\Users\Cveti\source\repos\Simple-Operations-And-Calculations\Dance-Hall\obj\Debug\Dance-Hall.pdb

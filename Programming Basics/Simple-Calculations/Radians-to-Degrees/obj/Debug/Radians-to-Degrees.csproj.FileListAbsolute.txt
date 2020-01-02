@@ -1,0 +1,6 @@
+D:\Projects\Simple-Calculations\Radians-to-Degrees\bin\Debug\Radians-to-Degrees.exe.config
+D:\Projects\Simple-Calculations\Radians-to-Degrees\bin\Debug\Radians-to-Degrees.exe
+D:\Projects\Simple-Calculations\Radians-to-Degrees\bin\Debug\Radians-to-Degrees.pdb
+D:\Projects\Simple-Calculations\Radians-to-Degrees\obj\Debug\Radians-to-Degrees.csproj.CoreCompileInputs.cache
+D:\Projects\Simple-Calculations\Radians-to-Degrees\obj\Debug\Radians-to-Degrees.exe
+D:\Projects\Simple-Calculations\Radians-to-Degrees\obj\Debug\Radians-to-Degrees.pdb

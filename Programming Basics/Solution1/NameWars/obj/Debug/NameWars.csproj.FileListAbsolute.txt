@@ -1,0 +1,7 @@
+D:\Projects\Solution1\NameWars\bin\Debug\NameWars.exe.config
+D:\Projects\Solution1\NameWars\bin\Debug\NameWars.exe
+D:\Projects\Solution1\NameWars\bin\Debug\NameWars.pdb
+D:\Projects\Solution1\NameWars\obj\Debug\NameWars.csprojAssemblyReference.cache
+D:\Projects\Solution1\NameWars\obj\Debug\NameWars.csproj.CoreCompileInputs.cache
+D:\Projects\Solution1\NameWars\obj\Debug\NameWars.exe
+D:\Projects\Solution1\NameWars\obj\Debug\NameWars.pdb

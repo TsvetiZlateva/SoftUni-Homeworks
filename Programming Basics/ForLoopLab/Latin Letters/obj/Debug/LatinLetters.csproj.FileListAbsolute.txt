@@ -1,0 +1,6 @@
+D:\Projects\ForLoopLab\Latin Letters\bin\Debug\Latin Letters.exe.config
+D:\Projects\ForLoopLab\Latin Letters\bin\Debug\Latin Letters.exe
+D:\Projects\ForLoopLab\Latin Letters\bin\Debug\Latin Letters.pdb
+D:\Projects\ForLoopLab\Latin Letters\obj\Debug\LatinLetters.csproj.CoreCompileInputs.cache
+D:\Projects\ForLoopLab\Latin Letters\obj\Debug\Latin Letters.exe
+D:\Projects\ForLoopLab\Latin Letters\obj\Debug\Latin Letters.pdb
