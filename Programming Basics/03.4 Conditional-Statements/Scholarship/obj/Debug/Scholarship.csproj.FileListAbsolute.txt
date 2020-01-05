@@ -1,7 +1,0 @@
-D:\Projects\ConditionalStatementsExercises\Scholarship\bin\Debug\Scholarship.exe.config
-D:\Projects\ConditionalStatementsExercises\Scholarship\bin\Debug\Scholarship.exe
-D:\Projects\ConditionalStatementsExercises\Scholarship\bin\Debug\Scholarship.pdb
-D:\Projects\ConditionalStatementsExercises\Scholarship\obj\Debug\Scholarship.csprojAssemblyReference.cache
-D:\Projects\ConditionalStatementsExercises\Scholarship\obj\Debug\Scholarship.csproj.CoreCompileInputs.cache
-D:\Projects\ConditionalStatementsExercises\Scholarship\obj\Debug\Scholarship.exe
-D:\Projects\ConditionalStatementsExercises\Scholarship\obj\Debug\Scholarship.pdb

@@ -1,7 +1,0 @@
-D:\Projects\WhileLoop\NumberSequence\bin\Debug\NumberSequence.exe.config
-D:\Projects\WhileLoop\NumberSequence\bin\Debug\NumberSequence.exe
-D:\Projects\WhileLoop\NumberSequence\bin\Debug\NumberSequence.pdb
-D:\Projects\WhileLoop\NumberSequence\obj\Debug\NumberSequence.csprojAssemblyReference.cache
-D:\Projects\WhileLoop\NumberSequence\obj\Debug\NumberSequence.csproj.CoreCompileInputs.cache
-D:\Projects\WhileLoop\NumberSequence\obj\Debug\NumberSequence.exe
-D:\Projects\WhileLoop\NumberSequence\obj\Debug\NumberSequence.pdb

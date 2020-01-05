@@ -1,7 +1,0 @@
-D:\Projects\WhileLoop\Graduation2\bin\Debug\Graduation2.exe.config
-D:\Projects\WhileLoop\Graduation2\bin\Debug\Graduation2.exe
-D:\Projects\WhileLoop\Graduation2\bin\Debug\Graduation2.pdb
-D:\Projects\WhileLoop\Graduation2\obj\Debug\Graduation2.csprojAssemblyReference.cache
-D:\Projects\WhileLoop\Graduation2\obj\Debug\Graduation2.csproj.CoreCompileInputs.cache
-D:\Projects\WhileLoop\Graduation2\obj\Debug\Graduation2.exe
-D:\Projects\WhileLoop\Graduation2\obj\Debug\Graduation2.pdb

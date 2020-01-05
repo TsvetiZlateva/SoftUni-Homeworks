@@ -1,7 +1,0 @@
-D:\Projects\Simple-Operations-And-Calculations\Alcohol Market\bin\Debug\Alcohol Market.exe.config
-D:\Projects\Simple-Operations-And-Calculations\Alcohol Market\bin\Debug\Alcohol Market.exe
-D:\Projects\Simple-Operations-And-Calculations\Alcohol Market\bin\Debug\Alcohol Market.pdb
-D:\Projects\Simple-Operations-And-Calculations\Alcohol Market\obj\Debug\AlcoholMarket.csprojAssemblyReference.cache
-D:\Projects\Simple-Operations-And-Calculations\Alcohol Market\obj\Debug\AlcoholMarket.csproj.CoreCompileInputs.cache
-D:\Projects\Simple-Operations-And-Calculations\Alcohol Market\obj\Debug\Alcohol Market.exe
-D:\Projects\Simple-Operations-And-Calculations\Alcohol Market\obj\Debug\Alcohol Market.pdb

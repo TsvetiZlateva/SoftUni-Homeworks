@@ -1,6 +1,0 @@
-D:\Projects\Conditional-Statements\Number-100-to-200\bin\Debug\Number-100-to-200.exe.config
-D:\Projects\Conditional-Statements\Number-100-to-200\bin\Debug\Number-100-to-200.exe
-D:\Projects\Conditional-Statements\Number-100-to-200\bin\Debug\Number-100-to-200.pdb
-D:\Projects\Conditional-Statements\Number-100-to-200\obj\Debug\Number-100-to-200.csproj.CoreCompileInputs.cache
-D:\Projects\Conditional-Statements\Number-100-to-200\obj\Debug\Number-100-to-200.exe
-D:\Projects\Conditional-Statements\Number-100-to-200\obj\Debug\Number-100-to-200.pdb

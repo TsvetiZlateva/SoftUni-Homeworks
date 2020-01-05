@@ -1,7 +1,0 @@
-D:\Projects\Conditional-Statements\Toystore\bin\Debug\Toystore.exe.config
-D:\Projects\Conditional-Statements\Toystore\bin\Debug\Toystore.exe
-D:\Projects\Conditional-Statements\Toystore\bin\Debug\Toystore.pdb
-D:\Projects\Conditional-Statements\Toystore\obj\Debug\Toystore.csprojAssemblyReference.cache
-D:\Projects\Conditional-Statements\Toystore\obj\Debug\Toystore.csproj.CoreCompileInputs.cache
-D:\Projects\Conditional-Statements\Toystore\obj\Debug\Toystore.exe
-D:\Projects\Conditional-Statements\Toystore\obj\Debug\Toystore.pdb

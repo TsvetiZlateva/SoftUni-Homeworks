@@ -1,6 +1,0 @@
-D:\Projects\NestedLoopsExercise\NumberPyramid\bin\Debug\NumberPyramid.exe.config
-D:\Projects\NestedLoopsExercise\NumberPyramid\bin\Debug\NumberPyramid.exe
-D:\Projects\NestedLoopsExercise\NumberPyramid\bin\Debug\NumberPyramid.pdb
-D:\Projects\NestedLoopsExercise\NumberPyramid\obj\Debug\NumberPyramid.csproj.CoreCompileInputs.cache
-D:\Projects\NestedLoopsExercise\NumberPyramid\obj\Debug\NumberPyramid.exe
-D:\Projects\NestedLoopsExercise\NumberPyramid\obj\Debug\NumberPyramid.pdb

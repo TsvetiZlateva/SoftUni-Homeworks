@@ -1,6 +1,0 @@
-D:\Projects\Programming Basics\NestedConditionalStatementsExercise\PointOnRectangleBorder\bin\Debug\PointOnRectangleBorder.exe.config
-D:\Projects\Programming Basics\NestedConditionalStatementsExercise\PointOnRectangleBorder\bin\Debug\PointOnRectangleBorder.exe
-D:\Projects\Programming Basics\NestedConditionalStatementsExercise\PointOnRectangleBorder\bin\Debug\PointOnRectangleBorder.pdb
-D:\Projects\Programming Basics\NestedConditionalStatementsExercise\PointOnRectangleBorder\obj\Debug\PointOnRectangleBorder.csprojAssemblyReference.cache
-D:\Projects\Programming Basics\NestedConditionalStatementsExercise\PointOnRectangleBorder\obj\Debug\PointOnRectangleBorder.exe
-D:\Projects\Programming Basics\NestedConditionalStatementsExercise\PointOnRectangleBorder\obj\Debug\PointOnRectangleBorder.pdb

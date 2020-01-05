@@ -1,7 +1,0 @@
-D:\Projects\ForLoopLab\LeftAndRightSum\bin\Debug\LeftAndRightSum.exe.config
-D:\Projects\ForLoopLab\LeftAndRightSum\bin\Debug\LeftAndRightSum.exe
-D:\Projects\ForLoopLab\LeftAndRightSum\bin\Debug\LeftAndRightSum.pdb
-D:\Projects\ForLoopLab\LeftAndRightSum\obj\Debug\LeftAndRightSum.csprojAssemblyReference.cache
-D:\Projects\ForLoopLab\LeftAndRightSum\obj\Debug\LeftAndRightSum.csproj.CoreCompileInputs.cache
-D:\Projects\ForLoopLab\LeftAndRightSum\obj\Debug\LeftAndRightSum.exe
-D:\Projects\ForLoopLab\LeftAndRightSum\obj\Debug\LeftAndRightSum.pdb

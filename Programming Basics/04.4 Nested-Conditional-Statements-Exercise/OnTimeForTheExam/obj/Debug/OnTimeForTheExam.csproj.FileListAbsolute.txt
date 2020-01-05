@@ -1,7 +1,0 @@
-D:\Projects\NestedConditionalStatementsExercise\OnTimeForTheExam\bin\Debug\OnTimeForTheExam.exe.config
-D:\Projects\NestedConditionalStatementsExercise\OnTimeForTheExam\bin\Debug\OnTimeForTheExam.exe
-D:\Projects\NestedConditionalStatementsExercise\OnTimeForTheExam\bin\Debug\OnTimeForTheExam.pdb
-D:\Projects\NestedConditionalStatementsExercise\OnTimeForTheExam\obj\Debug\OnTimeForTheExam.csprojAssemblyReference.cache
-D:\Projects\NestedConditionalStatementsExercise\OnTimeForTheExam\obj\Debug\OnTimeForTheExam.csproj.CoreCompileInputs.cache
-D:\Projects\NestedConditionalStatementsExercise\OnTimeForTheExam\obj\Debug\OnTimeForTheExam.exe
-D:\Projects\NestedConditionalStatementsExercise\OnTimeForTheExam\obj\Debug\OnTimeForTheExam.pdb

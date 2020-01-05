@@ -1,7 +1,0 @@
-D:\Projects\ConditionalStatementsExercises\BonusScore\bin\Debug\BonusScore.exe.config
-D:\Projects\ConditionalStatementsExercises\BonusScore\bin\Debug\BonusScore.exe
-D:\Projects\ConditionalStatementsExercises\BonusScore\bin\Debug\BonusScore.pdb
-D:\Projects\ConditionalStatementsExercises\BonusScore\obj\Debug\BonusScore.csprojAssemblyReference.cache
-D:\Projects\ConditionalStatementsExercises\BonusScore\obj\Debug\BonusScore.csproj.CoreCompileInputs.cache
-D:\Projects\ConditionalStatementsExercises\BonusScore\obj\Debug\BonusScore.exe
-D:\Projects\ConditionalStatementsExercises\BonusScore\obj\Debug\BonusScore.pdb

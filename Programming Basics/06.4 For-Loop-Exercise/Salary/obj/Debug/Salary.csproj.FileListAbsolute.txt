@@ -1,7 +1,0 @@
-D:\Projects\ForLoopExercise\Salary\bin\Debug\Salary.exe.config
-D:\Projects\ForLoopExercise\Salary\bin\Debug\Salary.exe
-D:\Projects\ForLoopExercise\Salary\bin\Debug\Salary.pdb
-D:\Projects\ForLoopExercise\Salary\obj\Debug\Salary.csprojAssemblyReference.cache
-D:\Projects\ForLoopExercise\Salary\obj\Debug\Salary.csproj.CoreCompileInputs.cache
-D:\Projects\ForLoopExercise\Salary\obj\Debug\Salary.exe
-D:\Projects\ForLoopExercise\Salary\obj\Debug\Salary.pdb

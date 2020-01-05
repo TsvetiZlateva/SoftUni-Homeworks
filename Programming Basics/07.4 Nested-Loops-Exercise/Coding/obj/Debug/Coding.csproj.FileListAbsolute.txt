@@ -1,7 +1,0 @@
-D:\Projects\NestedLoopsExercise\Coding\bin\Debug\Coding.exe.config
-D:\Projects\NestedLoopsExercise\Coding\bin\Debug\Coding.exe
-D:\Projects\NestedLoopsExercise\Coding\bin\Debug\Coding.pdb
-D:\Projects\NestedLoopsExercise\Coding\obj\Debug\Coding.csprojAssemblyReference.cache
-D:\Projects\NestedLoopsExercise\Coding\obj\Debug\Coding.csproj.CoreCompileInputs.cache
-D:\Projects\NestedLoopsExercise\Coding\obj\Debug\Coding.exe
-D:\Projects\NestedLoopsExercise\Coding\obj\Debug\Coding.pdb

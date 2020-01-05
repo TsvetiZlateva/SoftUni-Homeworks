@@ -1,7 +1,0 @@
-D:\Projects\WhileLoopExercices\Vakation\bin\Debug\Vakation.exe.config
-D:\Projects\WhileLoopExercices\Vakation\bin\Debug\Vakation.exe
-D:\Projects\WhileLoopExercices\Vakation\bin\Debug\Vakation.pdb
-D:\Projects\WhileLoopExercices\Vakation\obj\Debug\Vakation.csprojAssemblyReference.cache
-D:\Projects\WhileLoopExercices\Vakation\obj\Debug\Vakation.csproj.CoreCompileInputs.cache
-D:\Projects\WhileLoopExercices\Vakation\obj\Debug\Vakation.exe
-D:\Projects\WhileLoopExercices\Vakation\obj\Debug\Vakation.pdb

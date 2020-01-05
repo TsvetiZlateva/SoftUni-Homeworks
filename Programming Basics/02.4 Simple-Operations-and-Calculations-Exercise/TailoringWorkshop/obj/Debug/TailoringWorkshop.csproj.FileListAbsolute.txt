@@ -1,7 +1,0 @@
-C:\Users\Cveti\source\repos\Simple-Operations-And-Calculations\TailoringWorkshop\bin\Debug\TailoringWorkshop.exe.config
-C:\Users\Cveti\source\repos\Simple-Operations-And-Calculations\TailoringWorkshop\bin\Debug\TailoringWorkshop.exe
-C:\Users\Cveti\source\repos\Simple-Operations-And-Calculations\TailoringWorkshop\bin\Debug\TailoringWorkshop.pdb
-C:\Users\Cveti\source\repos\Simple-Operations-And-Calculations\TailoringWorkshop\obj\Debug\TailoringWorkshop.csprojResolveAssemblyReference.cache
-C:\Users\Cveti\source\repos\Simple-Operations-And-Calculations\TailoringWorkshop\obj\Debug\TailoringWorkshop.csproj.CoreCompileInputs.cache
-C:\Users\Cveti\source\repos\Simple-Operations-And-Calculations\TailoringWorkshop\obj\Debug\TailoringWorkshop.exe
-C:\Users\Cveti\source\repos\Simple-Operations-And-Calculations\TailoringWorkshop\obj\Debug\TailoringWorkshop.pdb

@@ -1,7 +1,0 @@
-D:\Projects\ConditionalStatementsExercises\ThreeBrothers\bin\Debug\ThreeBrothers.exe.config
-D:\Projects\ConditionalStatementsExercises\ThreeBrothers\bin\Debug\ThreeBrothers.exe
-D:\Projects\ConditionalStatementsExercises\ThreeBrothers\bin\Debug\ThreeBrothers.pdb
-D:\Projects\ConditionalStatementsExercises\ThreeBrothers\obj\Debug\ThreeBrothers.csprojAssemblyReference.cache
-D:\Projects\ConditionalStatementsExercises\ThreeBrothers\obj\Debug\ThreeBrothers.csproj.CoreCompileInputs.cache
-D:\Projects\ConditionalStatementsExercises\ThreeBrothers\obj\Debug\ThreeBrothers.exe
-D:\Projects\ConditionalStatementsExercises\ThreeBrothers\obj\Debug\ThreeBrothers.pdb
