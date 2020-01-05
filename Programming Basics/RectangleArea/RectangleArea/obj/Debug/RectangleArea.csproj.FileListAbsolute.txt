@@ -1,6 +1,0 @@
-D:\Projects\RectangleArea\RectangleArea\bin\Debug\RectangleArea.exe.config
-D:\Projects\RectangleArea\RectangleArea\bin\Debug\RectangleArea.exe
-D:\Projects\RectangleArea\RectangleArea\bin\Debug\RectangleArea.pdb
-D:\Projects\RectangleArea\RectangleArea\obj\Debug\RectangleArea.csproj.CoreCompileInputs.cache
-D:\Projects\RectangleArea\RectangleArea\obj\Debug\RectangleArea.exe
-D:\Projects\RectangleArea\RectangleArea\obj\Debug\RectangleArea.pdb

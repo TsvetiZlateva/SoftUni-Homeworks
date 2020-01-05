@@ -1,6 +1,0 @@
-D:\Projects\Simple-Calculations\Concatenate-Data\obj\Debug\Concatenate-Data.csproj.CoreCompileInputs.cache
-D:\Projects\Simple-Calculations\Concatenate-Data\bin\Debug\Concatenate-Data.exe.config
-D:\Projects\Simple-Calculations\Concatenate-Data\bin\Debug\Concatenate-Data.exe
-D:\Projects\Simple-Calculations\Concatenate-Data\bin\Debug\Concatenate-Data.pdb
-D:\Projects\Simple-Calculations\Concatenate-Data\obj\Debug\Concatenate-Data.exe
-D:\Projects\Simple-Calculations\Concatenate-Data\obj\Debug\Concatenate-Data.pdb

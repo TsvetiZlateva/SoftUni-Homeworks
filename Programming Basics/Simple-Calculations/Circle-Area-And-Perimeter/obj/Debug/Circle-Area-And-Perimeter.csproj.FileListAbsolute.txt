@@ -1,6 +1,0 @@
-D:\Projects\Simple-Calculations\Circle-Area-And-Perimeter\bin\Debug\Circle-Area-And-Perimeter.exe.config
-D:\Projects\Simple-Calculations\Circle-Area-And-Perimeter\bin\Debug\Circle-Area-And-Perimeter.exe
-D:\Projects\Simple-Calculations\Circle-Area-And-Perimeter\bin\Debug\Circle-Area-And-Perimeter.pdb
-D:\Projects\Simple-Calculations\Circle-Area-And-Perimeter\obj\Debug\Circle-Area-And-Perimeter.csproj.CoreCompileInputs.cache
-D:\Projects\Simple-Calculations\Circle-Area-And-Perimeter\obj\Debug\Circle-Area-And-Perimeter.exe
-D:\Projects\Simple-Calculations\Circle-Area-And-Perimeter\obj\Debug\Circle-Area-And-Perimeter.pdb
