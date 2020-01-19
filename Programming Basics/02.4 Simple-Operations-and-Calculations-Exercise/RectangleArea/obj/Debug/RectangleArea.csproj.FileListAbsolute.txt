@@ -1,0 +1,6 @@
+D:\GitHub\SoftUni-Homeworks\Programming Basics\02.4 Simple-Operations-and-Calculations-Exercise\RectangleArea\bin\Debug\RectangleArea.exe.config
+D:\GitHub\SoftUni-Homeworks\Programming Basics\02.4 Simple-Operations-and-Calculations-Exercise\RectangleArea\bin\Debug\RectangleArea.exe
+D:\GitHub\SoftUni-Homeworks\Programming Basics\02.4 Simple-Operations-and-Calculations-Exercise\RectangleArea\bin\Debug\RectangleArea.pdb
+D:\GitHub\SoftUni-Homeworks\Programming Basics\02.4 Simple-Operations-and-Calculations-Exercise\RectangleArea\obj\Debug\RectangleArea.csprojAssemblyReference.cache
+D:\GitHub\SoftUni-Homeworks\Programming Basics\02.4 Simple-Operations-and-Calculations-Exercise\RectangleArea\obj\Debug\RectangleArea.exe
+D:\GitHub\SoftUni-Homeworks\Programming Basics\02.4 Simple-Operations-and-Calculations-Exercise\RectangleArea\obj\Debug\RectangleArea.pdb
