@@ -1,0 +1,27 @@
+html{
+    font-family: Helvetica, sans-serif;
+}
+
+nav{
+    display: block;
+}
+
+ul, li{
+    display: inline-block;
+}
+
+nav>h1{
+    font-size: 40px;   
+    display: inline-block;
+}
+
+hr{
+    border-style: solid;
+}
+
+a{
+    color: green;
+    text-decoration: none;
+    margin: 10px;
+    font-weight: bold;
+}
